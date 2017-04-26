@@ -1,0 +1,26 @@
+h1{
+	color: #403425;
+	font-weight:nomal;
+}
+article{
+	width:600px;
+	margin:50px auto;
+	outline:1px solid red;
+	overflow: hidden;
+	font-size:0;
+}
+
+.sound img{
+	width: 100px;
+	height:100px;
+	
+}
+article.sound1 section.sound-content{
+	width: 300px;
+	display: inline-block;
+	font-size: 18px;
+
+}
+article.sound section.sound-content span{
+}
+article.sound section.sound-content a img{border-radius:100% }

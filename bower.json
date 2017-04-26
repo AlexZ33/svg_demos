@@ -1,0 +1,23 @@
+{
+  "name": "svg_tooltips",
+  "description": "tooltips based on svg&jquery&less",
+  "main": "index.html",
+  "keywords": [
+    "svg"
+  ],
+  "authors": [
+    "AlexZ33"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
